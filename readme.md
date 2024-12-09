@@ -1,7 +1,6 @@
 # Node.js RESTful API with Observer Pattern and SQLite Integration
 
 This project demonstrates a simple RESTful API built with Node.js that implements the Observer Pattern. The API uses SQLite for persistent data storage, and the Observer Pattern is used to notify subscribers (observers) when a new resource is created.
-
 ## Features
 
 - **Observer Pattern**:
